@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello from MuyuTwilighter!
 
 <!--
 **MUYUTwilighter/MUYUTwilighter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+About me:
+- An undergraduate of [Anhui University](https://www.ahu.edu.cn/), major in network engineering
+- A keyboard player of band [Coast Line](http://coastline.cool:33333/)
+- A Minecraft modder
+
+To contact:
+- [Private] QQ Email: 1484605372@qq.com
+- [Private] Netease Email: muyucloud@163.com
+- [Group] Discord Server: 
+- [Group] QQ Group Chat: [325504310](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=wHR6OGmAqg0gyD1Ctqmyf-YJrAgrsH34&authKey=kbqiFpE57zrqg9woD9VxU%2BxICBBY%2FncWnbn58xk8KvWeD41HtFAayFwK2%2BFnsBeV&noverify=0&group_code=325504310)
+- [Group] [Kook Server](https://www.kookapp.cn/app/invite/F7WKIG)
+
+To support:
+- [Aifadian](https://afdian.net/a/muyucloud)
