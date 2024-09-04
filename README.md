@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 💬About me:
 - An undergraduate of [Anhui University](https://www.ahu.edu.cn/), major in network engineering
-- A keyboard player of band [Coast Line](http://coastline.cool:33333/)
+- Used to serve as a keyboard player of band.
 - A Minecraft modder
 
 📫To contact:
