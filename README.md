@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 💬About me:
-- A graduate student of [Boston University](https://www.bu.edu/), major in Computer Information System.
-- Used to serve as a keyboard player and composer of band.
+- A full-stack web developer.
+- Used to serve as a keyboard player and composer of a band.
 - A Minecraft modder
 
 📫To contact:
